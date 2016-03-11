@@ -20,4 +20,34 @@ Let's say you're building a new developer tool that integrates with MailChimp. I
 
 	$ curl appreach.app/search?q=@MailChimp
 
+```
+[
+    {
+        "email": "Jared.Chanel@gmail.com",
+        "name": "Jared Chanel",
+        "twitter": "JaredChanel",
+        "website": "http://jaredchanel.com"
+    },
+    {
+        "email": "manuel@manuel-diaz.es",
+        "name": "Manuel Diaz",
+        "twitter": "mdiaz",
+        "website": "http://manuel-diaz.es"
+    },
+    {
+        "email": "amyadams@digitaldesign.com",
+        "name": "Amy Adams",
+        "twitter": "amyadamsdesign",
+        "website": "http://digitaldesign.com"
+    },
+    {
+        "email": "brown@shaniqua.co",
+        "name": "Shaniqua Brown",
+        "twitter": "shaniqbb",
+        "website": "http://shaniqua.com"
+    },
+    ...
+]
+```
+
 Twitter search param documentation can be found [here](https://dev.twitter.com/rest/public/search).
