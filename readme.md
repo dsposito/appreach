@@ -1,8 +1,8 @@
 ## Introduction
 
-AppReach is an outreach tool that can be used to promote or garner interest in an app that you're building.
+AppReach is an outreach tool that can be used to promote and garner interest in an app that you're building.
 
-AppReach will perform a search query to find users that are engaged with a @handle, #hashtag or keyword. Second, it will attempt to find the related website URL for each user based on profile data. Finally, it will attempt to find an email address on the user's website. The final output is a list of email contacts to make it easier and faster to ask a bunch of users for feedback on your app!
+AppReach will perform a search query to find users that are engaged with a @handle, #hashtag or keyword. Second, it will attempt to find the related website URL for each user based on profile data. Finally, it will attempt to find an email address on the user's website. The final output is a list of email contacts to make it easier and faster to ask a bunch of users for feedback on your app! Twitter search is the base data source at this time.
 
 An API interface is provided using the [Lumen framework](http://lumen.laravel.com/docs).
 
